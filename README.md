@@ -1,8 +1,6 @@
 <h1 align="center">   🐶🐾 Gerenciador de Adoção de Animais 🐾🐱 </h1> 
-<br>
-
-#  Descrição 
-📝 Este é um projeto de um sistema de gerenciamento de adoção de animais. Ele fornece uma API REST para cadastrar, listar, atualizar e excluir animais, além de permitir adicionar comentários aos animais.  
+ 
+<p align="center"> Este projeto é uma API Java que visa facilitar o gerenciamento de adoção de animais. Com esta API, é possível realizar diversas operações essenciais no contexto de adoção de animais, incluindo o cadastro de novos animais, a listagem detalhada ou filtrada, a atualização de informações e a exclusão de registros. Além disso, a API oferece a funcionalidade de adicionar comentários aos perfis dos animais, enriquecendo a interação e fornecendo uma plataforma aberta para expressar pensamentos e informações relevantes.  </p>
 <br>
 
 #  Tecnologias Utilizadas 
